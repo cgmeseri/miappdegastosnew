@@ -1,0 +1,3 @@
+Para no agregar al repositori algun archivo o carpeta creamos en el raiz el archivo .gitignore y escribimos lo que no queremos commitear.
+
+Para commitear en nuestro PC (STAGE) hacemos: ponemos el + a los archivos que queremos commitear
